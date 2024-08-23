@@ -1,6 +1,8 @@
 # Dummershill Town Hall
 
-[Home](about.md)
+[Events](events.md)
+[Commerce](commerce.md)
+[[Trading Board]](tradingboard.md)
 [gimmick:themechooser](Choose theme)
 
 [gimmick:theme](slate)
