@@ -5,7 +5,7 @@ Knights Games
 -------------
 
 | Date      | Guild                          | Score     | Winner |
-| --------- | ------------------------------ | --------- | ------ |
+| :-:       | :--                            | --:       | :-:    |
 | 8/24/2024 | The Guardians of Darkness      | 147,199   |        |
 | 8/24/2024 | The Knights of Thunder         | 900,770   |        |
 | 8/24/2024 | The Warriors of the Holy Blade | 6,260,636 | Yes    |
@@ -21,7 +21,7 @@ Province Battles
 ----------------
 
 | Date      | Province         | Order              | Points | Winner |
-| --------- | ---------------- | ------------------ | ------ | ------ |
+| :-:       | :--              | :--                | --:    | :-:    |
 | 8/25/2024 | Plaguelands      | The Lazarus Order  | 23,050 |        |
 | 8/25/2024 | Plaguelands      | The Meridian Order | 28,277 |        |
 | 8/25/2024 | Plaguelands      | The Merciful Order | 31,866 | Yes    |
