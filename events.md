@@ -3,6 +3,7 @@ Events
 
 Knights Games
 -------------
+
 | Date      | Guild                          | Score     | Winner |
 | --------- | ------------------------------ | --------- | ------ |
 | 8/24/2024 | The Guardians of Darkness      | 147,199   |        |
@@ -16,6 +17,7 @@ Knights Games
 | 8/10/2024 | The Knights of the Grail       | 4,545,949 | Yes    |
 
 Province Battles
+----------------
 
 | Date      | Province         | Order              | Points | Winner |
 | --------- | ---------------- | ------------------ | ------ | ------ |
