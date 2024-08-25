@@ -22,9 +22,12 @@ Province Battles
 
 | Date      | Province         | Order              | Points | Winner |
 | --------- | ---------------- | ------------------ | ------ | ------ |
-| 8/18/2024 | Swamps of Sorrow | The Merciful Order | 22786  |        |
-| 8/18/2024 | Swamps of Sorrow | The Meridian Order | 30590  |        |
-| 8/18/2024 | Swamps of Sorrow | The Lazarus Order  | 42997  | Yes    |
-| 8/11/2024 | Highlands        | The Lazarus Order  | 18596  |        |
-| 8/11/2024 | Highlands        | The Meridian Order | 19077  |        |
-| 8/11/2024 | Highlands        | The Merciful Order | 25956  | Yes    |
+| 8/25/2024 | Plaguelands      | The Lazarus Order  | 23,050 |        |
+| 8/25/2024 | Plaguelands      | The Meridian Order | 28,277 |        |
+| 8/25/2024 | Plaguelands      | The Merciful Order | 31,866 | Yes    |
+| 8/18/2024 | Swamps of Sorrow | The Merciful Order | 22,786 |        |
+| 8/18/2024 | Swamps of Sorrow | The Meridian Order | 30,590 |        |
+| 8/18/2024 | Swamps of Sorrow | The Lazarus Order  | 42,997 | Yes    |
+| 8/11/2024 | Highlands        | The Lazarus Order  | 18,596 |        |
+| 8/11/2024 | Highlands        | The Meridian Order | 19,077 |        |
+| 8/11/2024 | Highlands        | The Merciful Order | 25,956 | Yes    |
