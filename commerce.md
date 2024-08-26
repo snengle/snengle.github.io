@@ -5,7 +5,7 @@ Shop
 ----
 
 | Date      | Shop Skill     | Shop Bonus       | Shop Title       |
-| --------- | -------------- | ---------------- | ---------------- |
+| :-:       | :--            | :--              | :--              |
 | 8/12/2024 | Mirror Image   | Ninja Reflexes   | The Lucky Man    |
 | 8/11/2024 | Curse of Agony | Deadly Accuracy  | Ladies Hero      |
 | 8/10/2024 | Bowshot        | Docility         | The Fearless     |
@@ -87,7 +87,7 @@ Hunting Lodge
 -------------
 
 | Date      | Lodge Skill    | Lodge Bonus                | Lodge Quiver |
-| --------- | -------------- | -------------------------- | ------------ |
+| :-:       | :--            | :--                        | :--          |
 | 8/12/2024 | Electric Shock | Hardened Arrow Tip         | Medium       |
 | 8/11/2024 | Herbalism      | Improved Tracking          | Large        |
 | 8/10/2024 | Deadly Shot    | Increased Learning Ability | Medium       |
