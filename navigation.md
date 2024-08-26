@@ -7,4 +7,4 @@ Dummershill Town Hall
 [Trading Board](trading.md)
 [gimmick:themechooser](Choose theme)
 
-[gimmick:theme](slate)
+[gimmick:theme](cyborg)
