@@ -1,6 +1,7 @@
 Wanted Board
 ============
 
+![](images/wanted.jpeg "Wanted Board")
 
 The Orc King
 ------------
