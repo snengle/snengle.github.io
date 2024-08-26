@@ -1,6 +1,8 @@
 Events
 ======
 
+![](images/events.jpeg "Events Board")
+
 Knights Games
 -------------
 

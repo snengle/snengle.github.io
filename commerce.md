@@ -1,6 +1,8 @@
 Commerce
 ========
 
+![](images/commerce.jpeg "Shopping District")
+
 Shop
 ----
 
