@@ -8,6 +8,7 @@ Shop
 
 | Date       | Shop Skill     | Shop Bonus       | Shop Title       |
 | :-:        | :--            | :--              | :--              |
+| 8/27/2024  | Trap           | Clover           | The Bone Crusher |
 | 8/26/2024  | Fireball       | Chains           | The Beautiful    |
 | 8/25/2024  | Bandage        | Docility         | The Prophet      |
 | 8/24/2024  | Blade FLurry   | Feather Bed      | The Barbarian    |
@@ -32,6 +33,7 @@ Hunting Lodge
 
 | Date       | Lodge Skill    | Lodge Bonus                | Lodge Quiver |
 | :-:        | :--            | :--                        | :--          |
+| 8/27/2024  | Herbalism      | Optimized Feathering       | Medium       |
 | 8/26/2024  | Focus          | Hardened Arrow Tip         | Small        |
 | 8/25/2024  | Ice Arrow      | Improved Tracking          | Medium       |
 | 8/24/2024  | Hail of Arrows | Increased Learning Ability | Small        |
@@ -56,6 +58,7 @@ Bar
 
 | Date       | Potion 1                  | Potion 2                  | Potion 3                  |
 | :-:        | :--                       | :--                       | :--                       |
+| 8/27/2024  | Master Healing Potion     | Potion of Luck            | Swiftness Potion          |
 | 8/26/2024  | Master Healing Potion     | Potion of Luck            | Swiftness Potion          |
 | 8/25/2024  | Battle Potion of Strength | Master Healing Potion     | Swiftness Potion          |
 | 8/24/2024  | Battle Potion of Strength | Unbending Potion          | Master Healing Potion     |
