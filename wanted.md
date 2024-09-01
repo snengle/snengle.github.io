@@ -20,4 +20,5 @@ Azrael
 
 | Dark Tower Began | Defeated   | Hero              | Hero's Order       |
 | :-:              | :-:        | :--               | :--                |
+| 8/30/2024        |            |                   |                    |
 | 8/9/2024         | 8/17/2024  | John              | The Merciful Order |
