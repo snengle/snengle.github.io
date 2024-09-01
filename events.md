@@ -8,6 +8,9 @@ Knights Games
 
 | Date      | Guild                          | Score     | Winner |
 | :-:       | :--                            | --:       | :-:    |
+| 8/31/2024 | The Army of Darkness           | 144,314   |        |
+| 8/31/2024 | The Fallen Angels              | 773,297   |        |
+| 8/31/2024 | The Army of the Free           | 4,176,193 | Yes    |
 | 8/24/2024 | The Guardians of Darkness      | 147,199   |        |
 | 8/24/2024 | The Knights of Thunder         | 900,770   |        |
 | 8/24/2024 | The Warriors of the Holy Blade | 6,260,636 | Yes    |
