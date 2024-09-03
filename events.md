@@ -27,6 +27,9 @@ Province Battles
 
 | Date      | Province         | Order              | Points | Winner |
 | :-:       | :--              | :--                | --:    | :-:    |
+| 9/1/2024  | Darkshore        | The Merciful Order | 13,871 |        |
+| 9/1/2024  | Darkshore        | The Meridian Order | 43,263 |        |
+| 9/1/2024  | Darkshore        | The Lazarus Order  | 44,238 | Yes    |
 | 8/25/2024 | Plaguelands      | The Lazarus Order  | 23,050 |        |
 | 8/25/2024 | Plaguelands      | The Meridian Order | 28,277 |        |
 | 8/25/2024 | Plaguelands      | The Merciful Order | 31,866 | Yes    |
