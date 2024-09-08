@@ -8,6 +8,9 @@ Knights Games
 
 | Date      | Guild                          | Score     | Winner |
 | :-:       | :--                            | --:       | :-:    |
+| 9/7/2024  | The Descendatns of the Red Dragon | 341,933   |        |
+| 9/7/2024  | The Guardians of the People    | 1,479,696 |        |
+| 9/7/2024  | The Warriors of the Holy Blade | 5,084,406 | Yes    |
 | 8/31/2024 | The Army of Darkness           | 144,314   |        |
 | 8/31/2024 | The Fallen Angels              | 773,297   |        |
 | 8/31/2024 | The Army of the Free           | 4,176,193 | Yes    |
